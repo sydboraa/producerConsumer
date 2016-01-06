@@ -1,0 +1,16 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+hs_err_pid*
+
+out/
